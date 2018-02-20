@@ -14,7 +14,8 @@
                     @endif
 
                     <a href="/person/create">Register Member</a><br>
-                    <a href="/person/viewall">View Member(s)</a>
+                    <a href="/person/viewall">View Member(s)</a><br>
+                    <a href="/report/setup">Reports</a>
                 </div>
             </div>
         </div>
